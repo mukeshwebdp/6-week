@@ -1,0 +1,18 @@
+body{
+    background-color: #442052;
+}
+.container{
+    padding-top: 20px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap: 10px;
+    margin: auto;
+}
+img{
+    width: 230px;
+    height: 240px;
+    border:2px solid rgb(255, 6, 6);
+    border-radius: 5px;
+}
+
